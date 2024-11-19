@@ -476,7 +476,63 @@ const communityLocations = [
             { days: 'Mon-Fri', time: '8am-5pm' },
             { days: 'Sat-Sun', time: 'Closed' }
         ]
-    }    
+    },
+        {
+        lat: 38.9835463,
+        lng: -76.9650716,
+        type: 'recreation',
+        name: 'Lane mannor park',
+        address: '7601 West Park DriveHyattsville, MD 20783',
+        phone: '301-699-2400',
+        website: 'https://www.pgparks.com/facilities/lane-manor-park-building',
+        hours: [
+            { days: 'Mon-Sun', time: 'Dawn-Dusk' },
+        ]
+    },
+        {
+        lat: 38.9944103,
+        lng: -76.9798883,
+        type: 'recreation',
+        name: 'Langley Hampshire Neighborhood Park',
+        address: '1512 Quebec St, Hyattsville, MD 20783',
+        website: 'https://www.pgparks.com/parks_trails/langley-hampshire-park',
+        hours: [
+            { days: 'Mon-Sun', time: 'Dawn-Dusk' },
+        ]
+    },
+        {
+        lat: 38.983863,
+        lng: -76.960275,
+        type: 'recreation',
+        name: 'University Hills Park',
+        address: '3400 Stanford StreetHyattsville, MD 20783',
+        website: 'https://www.pgparks.com/parks_trails/university-hills-park',
+        hours: [
+            { days: 'Mon-Sun', time: 'Dawn-Dusk' },
+        ]
+    },
+        {
+        lat: 38.9737493,
+        lng: -76.9872989,
+        type: 'recreation',
+        name: 'Parklawn Park',
+        address: '6700 Conley RoadChillum, MD 20783',
+        website: 'https://www.pgparks.com/parks_trails/parklawn-park',
+        hours: [
+            { days: 'Mon-Sun', time: 'Dawn-Dusk' },
+        ]
+    },
+        {
+        lat: 38.97304159999999,
+        lng: -76.96546049999999,
+        type: 'recreation',
+        name: 'Lewisdale Park',
+        address: '7001 West Park DriveHyattsville, MD',
+        website: 'https://www.pgparks.com/parks_trails/lewisdale-park',
+        hours: [
+            { days: 'Mon-Sun', time: 'Dawn-Dusk' },
+        ]
+    }
 ];
 
 export { communityLocations };
