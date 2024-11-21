@@ -10,10 +10,12 @@ The key constraints that may impact the project are budget and time. Since we ar
 There might also be constraints in our abilities to work with software, frameworks, or libraries that we are not completely familiar with. We will try our best to learn how to use things we are unfamiliar with, however, the learning curve might be too steep considering our limited timeline.
 
 Deliverables
+
 Interactive Map Code: Code of our map showing important locations for the residents of Langley Park
 Final Presentation: A slidedeck summarizing our process and highlighting key takeaways and achievements.
 Maintenance and User Training Manual: A training guide for maintenance and users of the map so they can utilize the map’s fullest capabilities. With this the client can utilize our deliverable after our working period with them is over.
 Data: A comprehensive excel and json file containing addresses, coordinates, and locations of recreational areas around the area of Langley Park. This could include parks, schools, community events, and more.
 
 Outcomes
+
 Langley Park Civic Association has a large immigrant population that needs help accessing resources on health, finances, jobs, education, etc. Which is why we decided to create an interactive map with data on recreation areas, community centers and schools. Our final deliverable will help the civilians navigate the community with more ease. We are hoping that our client will be able to use our deliverable for the foreseeable future and hopefully the next iConsultancy group after us will be able to make improvements.
