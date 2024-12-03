@@ -1,4 +1,3 @@
-// locations.js
 const communityLocations = [
     {
         lat: 38.9893,
