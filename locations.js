@@ -215,19 +215,6 @@ const communityLocations = [
         ]
     },
     {
-        lat: 39.004875,
-        lng: -77.029834,
-        type: 'health',
-        name: 'Holy Cross Health Center',
-        address: '1500 Forest Glen Rd, Silver Spring, MD 20910',
-        phone: '301-754-7000',
-        website: 'https://www.holycrosshealth.org/',
-        hours: [
-            { days: 'Mon-Fri', time: '8am-4:30pm' },
-            { days: 'Sat-Sun', time: 'Closed' }
-        ]
-    },
-    {
         lat: 38.982733,
         lng: -76.987712,
         type: 'recreation',
@@ -316,32 +303,6 @@ const communityLocations = [
         website: 'https://www.holycrosshealth.org/',
         hours: [
             { days: 'Mon-Fri', time: '8am-4:30pm' },
-            { days: 'Sat-Sun', time: 'Closed' }
-        ]
-    },
-    {
-        lat: 39.003555,
-        lng: -77.012001,
-        type: 'social',
-        name: 'Silver Spring Village',
-        address: '8700 Georgia Ave, Silver Spring, MD 20910',
-        phone: '301-503-7401',
-        website: 'https://www.silverspringvillage.org/',
-        hours: [
-            { days: 'Mon-Fri', time: '10am-4pm' },
-            { days: 'Sat-Sun', time: 'Closed' }
-        ]
-    }, 
-    {
-        lat: 38.991344,
-        lng: -77.016861,
-        type: 'social',
-        name: 'Legal Aid Justice Center',
-        address: '6066 Leesburg Pike, Falls Church, VA 22041',
-        phone: '703-778-3450',
-        website: 'https://www.justice4all.org/',
-        hours: [
-            { days: 'Mon-Fri', time: '9am-5pm' },
             { days: 'Sat-Sun', time: 'Closed' }
         ]
     },
@@ -481,8 +442,8 @@ const communityLocations = [
         lat: 38.9835463,
         lng: -76.9650716,
         type: 'recreation',
-        name: 'Lane mannor park',
-        address: '7601 West Park DriveHyattsville, MD 20783',
+        name: 'Lane Manor Park',
+        address: '7601 West Park Drive Hyattsville, MD 20783',
         phone: '301-699-2400',
         website: 'https://www.pgparks.com/facilities/lane-manor-park-building',
         hours: [
@@ -531,6 +492,94 @@ const communityLocations = [
         website: 'https://www.pgparks.com/parks_trails/lewisdale-park',
         hours: [
             { days: 'Mon-Sun', time: 'Dawn-Dusk' },
+        ]
+    },
+        {
+        lat: 38.9859342,
+        lng: -76.9839246,
+        type: 'social',
+        name: 'Langley Park Multi-Service Center',
+        address: '1401 University Blvd. East, Langley Park, MD 20783',
+        phone: '301-434-4890',
+        website: 'https://search.211md.org/search/11ab34c7-99b3-560d-91fb-f3f3d1221721',
+        hours: [
+            { days: 'Mon-Fri', time: '8:30am-4:30pm' },
+            { days: 'Sat-Sun', time: 'Closed' }
+        ]
+    },
+    {
+        lat: 38.9843,
+        lng: -76.9766,
+        type: 'transit',
+        name: 'Takoma Langley Crossroads Transit Center',
+        address: 'New Hampshire Ave & University Blvd',
+        phone: '(301) 588-5100',
+        website: 'https://www.wmata.com',
+        hours: [
+            { days: 'Mon-Sun', time: '5am-12am' }
+        ]
+    },
+    {
+        lat: 38.9848,
+        lng: -76.9737,
+        type: 'transit',
+        name: 'University Blvd & New Hampshire Ave Bus Hub',
+        address: 'University Blvd & New Hampshire Ave',
+        phone: '(301) 588-5100',
+        hours: [
+            { days: 'Mon-Sun', time: '24 hours' }
+        ]
+    },
+    {
+        lat: 38.9889,
+        lng: -76.9859,
+        type: 'transit',
+        name: 'Riggs Road Bus Station',
+        address: 'Riggs Road & University Blvd',
+        phone: '(301) 588-5100',
+        hours: [
+            { days: 'Mon-Sun', time: '24 hours' }
+        ]
+    },
+    {
+        lat: 38.9935,
+        lng: -76.9847,
+        type: 'transit',
+        name: 'Lewisdale Bus Terminal',
+        address: '23rd Ave & Riggs Road',
+        phone: '(301) 588-5100',
+        hours: [
+            { days: 'Mon-Sun', time: '5:30am-12am' }
+        ]
+    },
+    {
+        lat: 39.0019,
+        lng: -76.9955,
+        type: 'transit',
+        name: 'Prince George\'s Plaza Metro Station',
+        address: '3575 East West Highway, Hyattsville, MD 20782',
+        phone: '(202) 637-7000',
+        website: 'https://www.wmata.com',
+        hours: [
+            { days: 'Mon-Thu', time: '5am-12am' },
+            { days: 'Fri', time: '5am-1am' },
+            { days: 'Sat', time: '7am-1am' },
+            { days: 'Sun', time: '8am-12am' }
+        ]
+    },
+    {
+        lat: 38.9846,
+        lng: -77.0185,
+        type: 'transit',
+        name: 'Fort Totten Metro Station',
+        address: '550 Galloway Street NE, Washington, DC 20011',
+        phone: '(202) 637-7000',
+        website: 'https://www.wmata.com',
+        hours: [
+            { days: 'Mon-Thu', time: '5am-12am' },
+            { days: 'Fri', time: '5am-1am' },
+            { days: 'Sat', time: '7am-1am' },
+            { days: 'Sun', time: '8am-12am' }
         ]
     }
 ];
