@@ -139,7 +139,6 @@ function toggleMarkers(type) {
     });
 }
 
-// Search event listeners
 searchBox.addEventListener('input', (e) => {
     const query = e.target.value.trim();
     if (query.length === 0) {
