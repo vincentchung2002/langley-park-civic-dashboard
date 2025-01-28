@@ -1,5 +1,7 @@
 # Data Dashboard for the Langley Park Civic Association
 
+(https://www.langleyparkcivic.org/service-directory)
+
 Abstract
 
 The plan for our team is to construct a map that shows local points of interest in the Langley Park community. This will include landmarks such as local schools, community centers and other points of interest for people living within Langley Park. Since our previous meeting and sprint plan, we decided to scrap the food licensing aspect of our project to focus on the map itself. So far, we are currently looking for mapping software that we will use to create our deliverables.
