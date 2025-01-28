@@ -1,6 +1,6 @@
 # Data Dashboard for the Langley Park Civic Association
 
-(https://www.langleyparkcivic.org/service-directory)
+https://www.langleyparkcivic.org/service-directory
 
 Abstract
 
